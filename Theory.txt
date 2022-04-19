@@ -1,0 +1,9 @@
+Tabulation: Bottom Up
+Memoization: Top Down
+
+Tabulation Method – Bottom Up Dynamic Programming 
+
+As the name itself suggests starting from the bottom and accumulating answers to the top.
+
+Bottom up is using loops.(Iterative)
+Top down (Recursion + memoisation)
